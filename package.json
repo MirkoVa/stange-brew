@@ -14,11 +14,15 @@
     "tutorial",
     "craft beer",
     "react",
-    "express"],
+    "express"
+  ],
   "author": "Mirko Vaars",
-  "license": "ISC",
+  "license": "",
   "bugs": {
     "url": "https://github.com/MirkoVa/stange-brew/issues"
   },
-  "homepage": "https://github.com/MirkoVa/stange-brew#readme"
+  "homepage": "https://github.com/MirkoVa/stange-brew#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
